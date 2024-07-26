@@ -1,6 +1,9 @@
 # Practical-Checklist-for-AWS-Cloud-Security-Engineers
 I compiled resources on the AWS security checklist expected of a cloud security engineer and other interesting resources related to cloud security.
 
+# Disclaimer: 
+<p> All rights and credits are reserved for the respective owners of the resources referenced in this blog. </p>
+
 # Your Responsibility as a Cloudsecurity Engineer
 <p>As a cloud security engineer 👨‍💻, whether working individually or as part of a team, it is your responsibility to continuously adhere to AWS security best practices and conduct regular reviews to safeguard cloud configurations and applications from potential threats. By proactively managing cloud security, you enable your organization to stay ahead of threat actors and protect data and applications from potential breaches, ensuring compliance with relevant laws and regulations.
 </p>
